@@ -1,1 +1,1 @@
-Mockup of a Bankpage
+Mockup of a Bankpage, utilizing Vite, React, and Tailwind
